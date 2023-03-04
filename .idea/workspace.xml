@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bcd4a8d-dd41-4170-ad75-e515279a66d7" name="Changes" comment="Create spring project" />
+    <list default="true" id="0bcd4a8d-dd41-4170-ad75-e515279a66d7" name="Changes" comment="Create spring project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introduction/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introduction/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introduction/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introduction/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introduction/Test3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/spring_introduction/Person.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -112,8 +121,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.com.zaurtregulov.spring.spring_introduction.Test1" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
@@ -129,7 +138,7 @@
       <workItem from="1677768513090" duration="3328000" />
       <workItem from="1677842703923" duration="642000" />
       <workItem from="1677845567336" duration="2075000" />
-      <workItem from="1677934497361" duration="1898000" />
+      <workItem from="1677934497361" duration="7097000" />
     </task>
     <task id="LOCAL-00001" summary="Create spring project">
       <created>1677939741685</created>
@@ -138,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677939741685</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create spring project">
+      <created>1677939868208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677939868208</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create spring project">
+      <created>1677939893167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677939893167</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -11,4 +11,11 @@
           class = "com.zaurtregulov.spring.spring_introduction.Dog">
     </bean>
 
+    <bean id = "myPerson"
+          class="com.zaurtregulov.spring.spring_introduction.Person">
+        <property name="pet" ref="myPet"/>
+        <property name="surname" value="Tregulov"/>
+        <property name="age" value="33"/>
+    </bean>
+
 </beans>
