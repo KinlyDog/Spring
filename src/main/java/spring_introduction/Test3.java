@@ -1,4 +1,4 @@
-package com.zaurtregulov.spring.spring_introduction;
+package spring_introduction;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -19,3 +19,30 @@ public class Test3 {
         context.close();
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
